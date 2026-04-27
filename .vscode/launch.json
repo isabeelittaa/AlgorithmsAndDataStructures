@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "deff",
+            "request": "launch",
+            "mainClass": "deffence.deff",
+            "projectName": "AlgorithmsAndDataStructures_a75af369"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
